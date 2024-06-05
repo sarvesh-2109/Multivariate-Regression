@@ -2,6 +2,13 @@
 
 This project demonstrates the implementation of a multivariate linear regression model to predict salaries based on candidates' experience, test scores, and interview scores.
 
+## Output
+
+
+https://github.com/sarvesh-2109/Multivariate-Regression/assets/113255836/435193e2-9c97-48d9-8c09-67893d8a3f94
+
+
+
 ## Overview
 
 In this project, we use a dataset containing information on candidates' experience, test scores, interview scores, and their corresponding salaries. Our goal is to build a regression model that can predict a candidate's salary based on the provided features.
